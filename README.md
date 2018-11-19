@@ -1,2 +1,2 @@
 # hell-world
-Description of the "hello-world" project
+Description of the "hell-world" project
